@@ -1,0 +1,42 @@
+Reporte de Evaluación Ambiental — Calidad de Agua Superficial
+
+Organismo de Evaluación y Fiscalización Ambiental (OEFA)
+Dirección de Supervisión Ambiental – Región Loreto
+
+1. Información General
+
+El presente reporte corresponde a una muestra de agua superficial tomada en la región de Loreto, en la Zona UTM 18, con coordenadas Este 333655 y Norte 9702242 (equivalente aproximado a Latitud -3.81, Longitud -73.25).
+
+Durante el proceso de monitoreo se identificó el parámetro ALBICARB SULFONA, con valores de 1.24 mg/L para pesticidas organoclorados y 0.92 mg/L para pesticidas organofosforados. Los datos fueron procesados a partir del dataset ambiental que consolida información proveniente de los puntos de evaluación fiscalizados por el OEFA.
+
+2. Interpretación Técnica de Resultados
+
+El análisis de laboratorio evidenció concentraciones elevadas de pesticidas, superando ampliamente los límites máximos recomendados por la Organización Mundial de la Salud (OMS) y los Estándares de Calidad Ambiental del Perú (DS N.º 004-2017-MINAM), que establecen un valor de referencia inferior a 0.1 mg/L para este tipo de compuestos en cuerpos de agua de uso doméstico o agrícola.
+
+Los resultados revelan un nivel de riesgo alto, principalmente debido a la persistencia y bioacumulación de estos contaminantes. Dichas sustancias pueden afectar la fauna acuática, alterar procesos biológicos naturales y representar un peligro potencial para las comunidades que dependen del recurso hídrico para consumo, pesca o irrigación.
+
+3. Evaluación de Riesgo Ambiental
+
+Los valores registrados de pesticidas organoclorados (1.24 mg/L) y organofosforados (0.92 mg/L) superan entre 9 y 12 veces los límites establecidos. Esto sugiere una contaminación de origen agrícola o industrial reciente y sostenida.
+
+El ALBICARB SULFONA, al ser un derivado de plaguicidas de alta persistencia, mantiene un comportamiento químico estable en el agua, lo que incrementa su capacidad de transporte y su tiempo de permanencia en el ecosistema. En consecuencia, este punto de monitoreo debe catalogarse como zona crítica de intervención inmediata.
+
+Entre los posibles efectos se incluyen la pérdida progresiva de biodiversidad, afectaciones en organismos filtradores y acumulación en peces, generando riesgos indirectos para la salud humana a través del consumo de alimentos contaminados.
+
+4. Conclusiones Técnicas
+
+El monitoreo realizado en la región Loreto evidencia una contaminación severa por pesticidas, con presencia de compuestos persistentes que exceden los valores máximos permitidos para aguas superficiales. Esta situación representa una amenaza ambiental considerable y justifica la intervención inmediata de las autoridades competentes.
+
+El nivel de riesgo determinado se clasifica como Alto, con potencial impacto en la salud pública y los ecosistemas acuáticos. La contaminación observada podría estar asociada a malas prácticas agrícolas o descargas no controladas provenientes de zonas de cultivo cercanas.
+
+5. Recomendaciones de Gestión Ambiental
+
+Se recomienda realizar un monitoreo ampliado en zonas adyacentes, tanto aguas arriba como aguas abajo, para determinar la extensión del impacto. Es prioritario identificar las fuentes de emisión mediante inspecciones en terrenos agrícolas y áreas industriales.
+
+Asimismo, se sugiere implementar acciones correctivas inmediatas, tales como la suspensión temporal de vertimientos y la capacitación de productores locales sobre el uso responsable de agroquímicos. En paralelo, deben promoverse medidas de remediación ambiental, incluyendo alternativas de biorremediación o fitoremediación que favorezcan la recuperación del ecosistema afectado.
+
+Finalmente, se recomienda mantener un seguimiento continuo durante los próximos seis meses, evaluando periódicamente la calidad del agua y verificando la eficacia de las acciones adoptadas.
+
+6. Marco Normativo de Referencia
+
+El presente reporte se sustenta en las disposiciones del Decreto Supremo N.º 031-2010-SA y el Decreto Supremo N.º 004-2017-MINAM, así como en los lineamientos de la Organización Mundial de la Salud (OMS) y la Agencia de Protección Ambiental de los Estados Unidos (EPA), que establecen los valores de referencia para metales y pesticidas en agua destinada al consumo humano o uso agrícola.
