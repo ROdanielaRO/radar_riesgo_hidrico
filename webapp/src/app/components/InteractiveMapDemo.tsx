@@ -322,7 +322,7 @@ export default function InteractiveMapDemo({
         );
       }
       
-      if (selectedTipoMonitoreo && selectedTipoMonitoreo !== 'todos') {
+      if (selectedTipoMonitoreo && selectedTipoMonitoreo !== 'none') {
         filteredData = filteredData.filter(point => 
           point.tipo_monitoreo === selectedTipoMonitoreo || point.tipo === selectedTipoMonitoreo
         );
@@ -421,7 +421,7 @@ export default function InteractiveMapDemo({
           {selectedInforme && (
             <p className="text-xs text-gray-600">ID: {selectedInforme.substring(0, 12)}...</p>
           )}
-          {selectedTipoMonitoreo && selectedTipoMonitoreo !== 'todos' && (
+          {selectedTipoMonitoreo && selectedTipoMonitoreo !== 'none' && (
             <p className="text-xs text-gray-600">Tipo: {selectedTipoMonitoreo.replace('_', ' ')}</p>
           )}
         </div>
